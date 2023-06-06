@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshop"]=self["webpackChunkshop"]||[]).push([[793],{5793:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var u=r(3396);const s=(0,u._)("h1",null,"欢迎来到用户管理系统",-1),t=[s];function c(n,e,r,s,c,l){return(0,u.wg)(),(0,u.iD)("div",null,t)}var l={name:"roles"},o=r(89);const a=(0,o.Z)(l,[["render",c]]);var f=a}}]);
+//# sourceMappingURL=793.486789d1.js.map
